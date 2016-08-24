@@ -16,6 +16,7 @@
 		4BC62F191D486031002AFA7F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BC62F171D486031002AFA7F /* LaunchScreen.storyboard */; };
 		4BC62F241D486031002AFA7F /* AnimatationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BC62F231D486031002AFA7F /* AnimatationTests.m */; };
 		4BC62F2F1D486031002AFA7F /* AnimatationUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BC62F2E1D486031002AFA7F /* AnimatationUITests.m */; };
+		4BC62F3F1D4860D2002AFA7F /* 4s-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4BC62F3E1D4860D2002AFA7F /* 4s-2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		4BC62F2A1D486031002AFA7F /* AnimatationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimatationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BC62F2E1D486031002AFA7F /* AnimatationUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnimatationUITests.m; sourceTree = "<group>"; };
 		4BC62F301D486031002AFA7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4BC62F3E1D4860D2002AFA7F /* 4s-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "4s-2.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 		4BC62EFA1D486031002AFA7F = {
 			isa = PBXGroup;
 			children = (
+				4BC62F3E1D4860D2002AFA7F /* 4s-2.png */,
 				4BC62F051D486031002AFA7F /* Animatation */,
 				4BC62F221D486031002AFA7F /* AnimatationTests */,
 				4BC62F2D1D486031002AFA7F /* AnimatationUITests */,
@@ -247,6 +250,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4BC62F191D486031002AFA7F /* LaunchScreen.storyboard in Resources */,
+				4BC62F3F1D4860D2002AFA7F /* 4s-2.png in Resources */,
 				4BC62F161D486031002AFA7F /* Assets.xcassets in Resources */,
 				4BC62F111D486031002AFA7F /* Main.storyboard in Resources */,
 			);
